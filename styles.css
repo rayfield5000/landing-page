@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    background-color: wheat;
+    font: 20px;
+    padding: 15px 10px 10px 15px;
+  }
+  img {
+   max-width:100%;
+   height:auto;
+   justify-content: center;
+  }
+  p {
+    text-align: center;
+    font: 40px;
+  }
+  
